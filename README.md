@@ -42,5 +42,5 @@ Windows                  8 hrs 11 mins       ███████████�
 - Facebook - [Dikky R Al Faqir](https://facebook.com/thed3codex)
 - Twitter - [@dikkyryn](https://twitter.com/dikkyryn)
 - Instagram - [@dikkyryan](https://www.instagram.com/dikkyryan)
-- Email - [dikky@semarangkota.go.id](dikky@semarangkota.go.id)
+- Email - [dikkydbs@gmail.com](dikkydbs@gmail.com)
 - Blog - [https://anher323.blogspot.com/](https://anher323.blogspot.com/)
