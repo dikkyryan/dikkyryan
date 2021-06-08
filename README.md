@@ -8,6 +8,8 @@
 - 👯 I’m looking to collaborate with other bug hunter
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love smoking and coffie, finding bug and create unfinished side project 
+- 🌱 motivation : A little progress each day adds up to Big results.
+
 
 
 ### 📊 Weekly development breakdown
