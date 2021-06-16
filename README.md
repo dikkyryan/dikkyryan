@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on a ton of project bug bounty!
 - 🌱 I’m currently learning about DevOps,Cyber Security,Digital Forensics specially Cloud
 - 👯 I’m looking to collaborate with other bug hunter
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love smoking and coffie, finding bug and create unfinished side project 
 - 🌱 motivation : A little progress each day adds up to Big results.
 
