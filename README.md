@@ -4,7 +4,7 @@
 
 ### I'm a Single Fighter Pentester!
 - 🔭 I’m currently working on a ton of project bug bounty!
-- 🌱 I’m currently learning about DevOps,Cyber Security,Digital Forensics specially Cloud
+- 🌱 I’m currently learning about DevSecOps,Cyber Security,Digital Forensics specially Cloud
 - 👯 I’m looking to collaborate with other bug hunter
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love smoking and coffie, finding bug and create unfinished side project 
