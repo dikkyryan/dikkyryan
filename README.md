@@ -45,4 +45,4 @@ Windows                  8 hrs 11 mins       ███████████�
 - Twitter - [@dikkyryn](https://twitter.com/dikkyryn)
 - Instagram - [@dikkyryan](https://www.instagram.com/dikkyryan)
 - Email - [dikkydbs@gmail.com](dikkydbs@gmail.com)
-- Blog - [https://anher323.blogspot.com/](https://anher323.blogspot.com/)
+- Blog - [https://dikkyryan.me/](https://dikkyryan.me/)
